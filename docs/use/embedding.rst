@@ -9,7 +9,7 @@ Embedding is provided to show the fiddle with running result on any other page.
 URL: ``http://{url_of_the_fiddle}/embedded/[{tabs}/[{style}]]/``
 
 **url_of_the_fiddle**
-  full address to the fiddle without ``http://jsfiddle.net``
+  full address to the fiddle without ``http://``
 
 **tabs**
   which tabs and in which order should be displayed (default: ``js,resources,html,css,result``)
@@ -85,7 +85,7 @@ Changing skin
 -------------
 
 It is already technically possible to change the skin of the embedded fiddle.
-Following example is using a presentation skin. ``src="http://jsfiddle.net/zalun/NmudS/embedded/js,result/presentation/"``
+Following example is using a presentation skin: ``src="http://jsfiddle.net/zalun/NmudS/embedded/js,result/presentation/"``
 
 .. raw:: html
 

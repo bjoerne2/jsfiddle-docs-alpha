@@ -4,7 +4,7 @@ Integration with GitHub
 
 If one wants to manage the demo directly from GitHub it is possible. 
 jsFiddle will load it and present as a newly created fiddle. 
-It is also possible to store XHR responses directly on GitHub
+It is also possible to store XHR responses directly on GitHub.
 
 .. toctree::
    :maxdepth: 1

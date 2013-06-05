@@ -103,7 +103,7 @@ it's the first created version. Owner of the fiddle - user who created
 the first version may change it by clicking on the button 
 :menuselection:`Set as Base`.
 
-It is considered a good practice to use base version for 
+It is considered a good practice to use the base version for 
 :ref:`embedded fiddles <embedding>`. Author can fix the error and "update" 
 the example on the page without accessing the article's code.
 

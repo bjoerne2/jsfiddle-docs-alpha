@@ -5,10 +5,10 @@ Debugging remote resources
 ==========================
 
 jsFiddle makes it easy to debug fiddles with 
-`weinre <http://pmuellr.github.com/weinre/>`_. 
+`weinre <http://people.apache.org/~pmuellr/weinre/docs/latest/>`_. 
 
 .. note:: Please read "Supported Libraries and Platforms" on 
- `weinre <http://pmuellr.github.com/weinre/>`_ website. 
+ `weinre <http://people.apache.org/~pmuellr/weinre/docs/latest/>`_ website. 
 
 .. note:: This feature is only for logged in users.
 
@@ -16,7 +16,7 @@ jsFiddle makes it easy to debug fiddles with
    :align: right                                            
    :figwidth: 141px                                          
 
-After creating a fiddle plese click on the **Remote Button** (as displayed on 
+After creating a fiddle please click on the **Remote Button** (as displayed on 
 the image on the right). A hashtag with the id for remote debugging will be 
 created. Further instructions will be displayed in the 
 :ref:`result-without-save`. 

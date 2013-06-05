@@ -44,10 +44,10 @@ Working with PaperScript
 ########################
 In short: Fork http://jsfiddle.net/zalun/xvhFa/ to start a PaperScript fiddle.
 
-Similar to CoffeeScript, Paperscript requires the ``script`` tag to be the 
+Similar to CoffeeScript, PaperScript requires the ``script`` tag to be the 
 ``type`` of ``text/paperscript`` and provide the ``id`` of the ``canvas`` 
 element in the ``canvas`` parameter. Enter following into the HTML panel and 
-you'll be able to write Paperscript in JavaScript panel.
+you'll be able to write PaperScript in JavaScript panel.
 
 .. code-block:: html
 
@@ -57,7 +57,7 @@ you'll be able to write Paperscript in JavaScript panel.
 Please set the **Code Wrap** to ``no wrap(head)`` (default is ``onLoad``) and
 **Franework** to ``No-library (pure JS)``.
 
-As Paperscripts requires this hack to work we can't add it to the list of
+As PaperScripts requires this hack to work we can't add it to the list of
 frameworks yet. Add a link to 
 https://raw.github.com/paperjs/paper.js/master/dist/paper.js
 as a **Resource** (:ref:`add_resources`).
